@@ -1,5 +1,5 @@
 # LVQ_Database
-Video Database dedicated for Laparoscopic Video Quality (LVQ) Assessment
+Video Database dedicated to Laparoscopic Video Quality (LVQ) Assessment
 
 [Download Link](https://drive.google.com/file/d/1SoONeacp9vvihTY7zmWssG_cnVzx16oq/view)
 
