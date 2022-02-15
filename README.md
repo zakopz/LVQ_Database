@@ -7,6 +7,7 @@ Video Database dedicated to Laparoscopic Video Quality (LVQ) Assessment
 
 In case you publish any results based on the use of this database, please cite the following papers:
 
+- **Khan, Z. A., Beghdadi, A., Kaaniche, M., Cheikh, F. A., & Gharbi, O. (2022). End-to-End Blind Quality Assessment for Laparoscopic Videos using Neural Networks. arXiv preprint arXiv:2202.04517.**
 - **Khan, Z.A., Beghdadi, A., Cheikh, F.A., Kaaniche, M., Pelanis, E., Palomar, R., Fretland, Å.A., Edwin, B. and Elle, O.J., 2020, March. Towards a video quality assessment based framework for enhancement of laparoscopic videos. In Medical Imaging 2020: Image Perception, Observer Performance, and Technology Assessment (Vol. 11316, p. 113160P). International Society for Optics and Photonics.** 
 - **Khan, Z.A., Beghdadi, A., Kaaniche, M. and Cheikh, F.A., 2020, October. Residual networks based distortion classification and ranking for laparoscopic image quality assessment. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 176-180). IEEE.**
 
